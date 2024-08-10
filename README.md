@@ -14,3 +14,6 @@ docker run desafio-docker-golang
 
 Imagem no dockerhub:
 https://hub.docker.com/repository/docker/laoviah/desafio-docker-golang/general
+
+![image](https://github.com/user-attachments/assets/36cfcc46-bbe9-48bc-ab45-dfb1fd9a499c)
+
